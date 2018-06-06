@@ -15,12 +15,15 @@ Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web 
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/ag-grid-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/ag-grid-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/ag-grid-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/ag-grid-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/ag-grid/badges/version.svg)](https://anaconda.org/conda-forge/ag-grid)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/ag-grid/badges/downloads.svg)](https://anaconda.org/conda-forge/ag-grid)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-ag--grid-green.svg)](https://anaconda.org/conda-forge/ag-grid) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/ag-grid.svg)](https://anaconda.org/conda-forge/ag-grid) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/ag-grid.svg)](https://anaconda.org/conda-forge/ag-grid) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/ag-grid.svg)](https://anaconda.org/conda-forge/ag-grid) |
 
 Installing ag-grid
 ==================
