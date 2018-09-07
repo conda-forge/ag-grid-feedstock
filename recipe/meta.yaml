@@ -1,6 +1,6 @@
 {% set name = "ag-grid" %}
-{% set version = "18.0.1" %}
-{% set sha256 = "785e1ce36d72459eb50b918a45133900673f89b0245f8581e9de13f594b73e15" %}
+{% set version = "19.0.0" %}
+{% set sha256 = "f46b3129c3209ca2c705d3ea9a8988672b91417f95ae39fbf67d219e3c8c5506" %}
 
 package:
   name: {{ name|lower }}
