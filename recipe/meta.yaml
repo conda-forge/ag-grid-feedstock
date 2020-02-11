@@ -1,13 +1,13 @@
 {% set name = "ag-grid" %}
-{% set version = "18.0.1" %}
-{% set sha256 = "785e1ce36d72459eb50b918a45133900673f89b0245f8581e9de13f594b73e15" %}
+{% set version = "22.1.1" %}
+{% set sha256 = "6731e1ac83ea3d30985bb95a1a64d26ff9eb88bcf7bf49d246aa1c5e3e00b1b7" %}
 
 package:
   name: {{ name|lower }}
   version: {{ version }}
 
 source:
-  url: https://github.com/ag-grid/{{ name }}/archive/{{ version }}.tar.gz
+  url: https://github.com/ag-grid/{{ name }}/archive/v{{ version }}.tar.gz
   sha256: {{ sha256 }}
 
 build:
